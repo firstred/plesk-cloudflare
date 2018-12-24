@@ -1,0 +1,12 @@
+.idea/
+vendor/
+
+composer.lock
+
+*.key
+*.env
+*.pem
+
+test*
+*.zip
+

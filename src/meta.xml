@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2018-2019. Michael Dekker. -->
+<module>
+  <id>cloudflaredns</id>
+  <name>Cloudflare DNS</name>
+  <description>This extension does a one-way sync of Plesk's DNS settings to Cloudflare.</description>
+  <category>dns</category>
+  <version>1.0</version>
+  <release>0</release>
+  <vendor>Michael Dekker</vendor>
+  <url>https://github.com/firstred/plesk-cloudflare</url>
+  <plesk_min_version>17.8</plesk_min_version>
+  <!--Localized descriptions below-->
+  <description xml:lang="nl-NL">Deze extensie stuurt Plesk's DNS-instellingen naar Cloudflare.</description>
+</module>

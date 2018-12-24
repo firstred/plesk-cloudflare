@@ -1,0 +1,18 @@
+{
+  "name": "firstred/plesk-cloudflare",
+  "description": "Cloudflare DNS connector for Plesk",
+  "require": {
+    "php": "^7.1",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Michael Dekker",
+      "email": "info@trendweb.io"
+    }
+  ],
+  "require-dev": {
+  }
+}
